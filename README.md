@@ -11,7 +11,7 @@ Soy un desarrollador de 24 años que reside en Colombia y me apasiona crear soft
  
 **Version Control:** `Git`
 
-**Backend Development:** `Spring boot`
+**Backend Development:** `Spring boot` `C#`
 
 **Testing:** `Postman`
 
